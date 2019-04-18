@@ -31,5 +31,6 @@
 ### Lei americana CAN-SPAM
 <p>É uma maneira de mostrar aos seus clientes que você é uma empresa confiável.</p>
 <p>Nas suas campanhas de e-mail, você deve sempre incluir:</p>
-*Seu endereço (físico)
-*Logotipo da empresa
+
+* Seu endereço (físico)
+* Logotipo da empresa
